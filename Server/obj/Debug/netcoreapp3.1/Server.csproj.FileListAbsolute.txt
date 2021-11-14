@@ -1,0 +1,15 @@
+C:\Users\waleed\source\repos\TCP\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\waleed\source\repos\TCP\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\waleed\source\repos\TCP\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\waleed\source\repos\TCP\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\waleed\source\repos\TCP\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\waleed\source\repos\TCP\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\waleed\source\repos\TCP\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+C:\Users\waleed\source\repos\TCP\Server\obj\Debug\netcoreapp3.1\Server.server.resources
+C:\Users\waleed\source\repos\TCP\Server\obj\Debug\netcoreapp3.1\Server.csproj.GenerateResource.cache
+C:\Users\waleed\source\repos\TCP\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\waleed\source\repos\TCP\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\waleed\source\repos\TCP\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\waleed\source\repos\TCP\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\waleed\source\repos\TCP\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\waleed\source\repos\TCP\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
